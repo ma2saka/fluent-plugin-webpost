@@ -1,18 +1,19 @@
+*.swp
+*.bak
+.DS_Store
+
 *.gem
 *.rbc
-.bundle
-.config
-coverage
-InstalledFiles
-lib/bundler/man
-pkg
-rdoc
-spec/reports
-test/tmp
-test/version_tmp
-tmp
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+/tmp/
+/.bundle/
+/lib/bundler/man/
+/vendor/bundle/*
+.rvmrc
 
-# YARD artifacts
-.yardoc
-_yardoc
-doc/
